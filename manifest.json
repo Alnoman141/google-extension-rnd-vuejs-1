@@ -1,0 +1,9 @@
+{
+    "name": "Simple Toogle Sites",
+    "version": "1.0.0",
+    "description": "Simple Toogle Sites for testing build with vuejs",
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "manifest_version": 2
+}
